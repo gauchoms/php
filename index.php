@@ -1,6 +1,6 @@
 <?php
 
-	echo "Hello World - Teste 1 de GIT e GITHUB";
+	echo "OLá mundo! - Teste 2 de GIT e GITHUB - controle de versão";
 
 
 ?>
